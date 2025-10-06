@@ -61,7 +61,7 @@ In this step, we use **K-Means** to group the assets by their return and varianc
 
 📈 **K-Means Clustering Output:**
 
-![K-Means Clusters](images/kmeans_clusters.png)
+
 
 #### 💡 Observations:
 - The portfolio is divided into **5 clusters**.
@@ -108,7 +108,7 @@ After identifying clusters, we construct and optimize portfolios using different
 #### 📈 Efficient Frontier Visualization:
 The **Efficient Frontier** shows optimal portfolios at varying risk levels, displaying how expected return increases with risk.
 
-![Efficient Frontier](images/efficient_frontier.png)
+
 
 ---
 
@@ -123,8 +123,7 @@ The **Efficient Frontier** shows optimal portfolios at varying risk levels, disp
 - **Balanced investors** seeking both return and safety can rely on:  
   `Baidu Inc.` primarily.
 
-📊 **Cluster Risk-Return Summary:**
-![Cluster Summary](images/cluster_summary.png)
+
 
 ---
 
