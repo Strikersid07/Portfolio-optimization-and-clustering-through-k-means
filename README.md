@@ -46,7 +46,7 @@ returns = data.pct_change().mean()
 variance = data.var()
 ret_var = pd.concat([returns, variance], axis=1)
 
----```
+```
 
 ### **2️⃣ K-Means Clustering**
 
